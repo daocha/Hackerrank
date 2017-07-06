@@ -56,7 +56,8 @@ import java.util.TreeSet;
  * https://www.hackerrank.com/challenges/minimum-loss/problem
  * 
  * @author Ray
- * @date 2017-07-06
+ * @date Jul 6, 2017
+ * @contact ray@daocha.me
  *
  */
 

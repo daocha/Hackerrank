@@ -43,7 +43,8 @@ import java.util.HashMap;
  * https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
  * 
  * @author Ray
- * @date 2017-07-06
+ * @date Jul 6, 2017
+ * @contact ray@daocha.me
  *
  */
 public class CycleDetection {
