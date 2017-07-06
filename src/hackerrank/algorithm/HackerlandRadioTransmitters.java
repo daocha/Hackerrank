@@ -61,7 +61,8 @@ import java.util.TreeSet;
  * https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
  * 
  * @author Ray
- * @date 2017-07-06
+ * @date Jul 6, 2017
+ * @contact ray@daocha.me
  *
  */
 public class HackerlandRadioTransmitters {
@@ -73,6 +74,7 @@ public class HackerlandRadioTransmitters {
 		for (int x_i = 0; x_i < n; x_i++) {
 			houses.add(in.nextInt());
 		}
+		in.close();
 
 		Integer[] x = houses.toArray(new Integer[] {});
 

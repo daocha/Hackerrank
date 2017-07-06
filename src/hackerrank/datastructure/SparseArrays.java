@@ -37,7 +37,8 @@ import java.util.Scanner;
  * 
  * 
  * @author Ray
- * @date 2017-07-06
+ * @date Jul 6, 2017
+ * @contact ray@daocha.me
  *
  */
 public class SparseArrays {
@@ -69,6 +70,9 @@ public class SparseArrays {
 				result.add(0);
 			}
 		}
+
+		scan.close();
+
 		for (Integer res : result) {
 			System.out.println(res);
 		}

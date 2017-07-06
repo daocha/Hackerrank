@@ -56,7 +56,8 @@ import java.util.TreeSet;
  * https://www.hackerrank.com/challenges/minimum-loss/problem
  * 
  * @author Ray
- * @date 2017-07-06
+ * @date Jul 6, 2017
+ * @contact ray@daocha.me
  *
  */
 
@@ -74,6 +75,7 @@ public class MinimumLoss {
 		for (int i = 0; i < n; i++) {
 			pricesMap.put(scan.nextLong(), i + 1);
 		}
+		scan.close();
 
 		TreeSet<Long> diffMap = new TreeSet<Long>();
 

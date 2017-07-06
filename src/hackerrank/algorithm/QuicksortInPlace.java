@@ -59,7 +59,8 @@ import java.util.Scanner;
  * https://www.hackerrank.com/challenges/quicksort3/problem
  * 
  * @author Ray
- * @date 2017-07-06
+ * @date Jul 6, 2017
+ * @contact ray@daocha.me
  *
  */
 public class QuicksortInPlace {
@@ -74,6 +75,7 @@ public class QuicksortInPlace {
 		for (int i = 0; i < n; i++) {
 			arr[i] = scan.nextInt();
 		}
+		scan.close();
 
 		quickSort(arr, 0, n - 1);
 	}
