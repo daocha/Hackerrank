@@ -72,4 +72,20 @@ public class FibonacciModified {
 
 		return fib(i - 2).add(fib(i - 1).pow(2));
 	}
+
+	private void privatgeMethod() {
+
+	}
+
+	protected void protectedMethod() {
+
+	}
+
+	void nomodifier() {
+
+	}
+
+	public static void staticMethod() {
+
+	}
 }
