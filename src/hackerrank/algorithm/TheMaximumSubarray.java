@@ -60,6 +60,8 @@ public class TheMaximumSubarray {
 			for (int i = 0; i < n; i++) {
 				array[i] = scan.nextInt();
 			}
+			scan.close();
+
 			// find continous subarray
 			int sum1 = 0;
 			int max = 0;
