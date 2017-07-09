@@ -37,7 +37,7 @@ import java.util.Scanner;
  * <p>
  * https://www.hackerrank.com/challenges/sherlock-and-cost/problem
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *

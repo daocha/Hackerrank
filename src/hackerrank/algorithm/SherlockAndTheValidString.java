@@ -40,7 +40,7 @@ import java.util.Scanner;
  * https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
  * 
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *

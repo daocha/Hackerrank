@@ -60,7 +60,7 @@ import java.util.TreeSet;
  * <p>
  * https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *

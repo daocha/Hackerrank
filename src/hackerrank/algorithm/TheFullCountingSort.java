@@ -64,7 +64,7 @@ import java.util.TreeMap;
  * <p>
  * https://www.hackerrank.com/challenges/countingsort4/problem
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *
