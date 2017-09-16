@@ -40,7 +40,7 @@ import java.util.Scanner;
  * https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
  * 
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *
@@ -148,6 +148,7 @@ public class SherlockAndTheValidString {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String s = in.next();
+		in.close();
 		String result = isValid(s);
 		System.out.println(result);
 	}

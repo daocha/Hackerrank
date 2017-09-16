@@ -37,7 +37,7 @@ import java.util.Scanner;
  * <p>
  * https://www.hackerrank.com/challenges/sherlock-and-cost/problem
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *
@@ -86,6 +86,8 @@ public class SherlockAndCost {
 			System.out.println(Math.max(sumA[0][N - 1], sumA[1][N - 1]));
 
 		}
+
+		scan.close();
 
 	}
 }

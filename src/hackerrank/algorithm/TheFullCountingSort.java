@@ -64,7 +64,7 @@ import java.util.TreeMap;
  * <p>
  * https://www.hackerrank.com/challenges/countingsort4/problem
  * 
- * @author Ray
+ * @author Ray LI
  * @date Jul 6, 2017
  * @contact ray@daocha.me
  *
@@ -93,6 +93,8 @@ public class TheFullCountingSort {
 			list.add(string);
 			group.put(val, list);
 		}
+		scan.close();
+
 		for (Integer val : group.keySet()) {
 			ArrayList<String> strings = group.get(val);
 			for (String string : strings) {
