@@ -14,17 +14,11 @@ import java.util.Scanner;
  * and right in four directions.
  * 
  * For example, the following matrix:
- * <p>
  * ----------
- * <p>
  * 0 0 0 0 0
- * <p>
  * 0 0 0 0 0
- * <p>
  * 0 0 0 0 0
- * <p>
  * 0 0 0 0 0
- * <p>
  * (x, y) = (1, 1), k = 2, the output is 2
  * 
  * 
